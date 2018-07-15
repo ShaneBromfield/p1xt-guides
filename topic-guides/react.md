@@ -5,10 +5,10 @@ The following is a deep dive, designed to familiarize you thoroughly with React.
 ## Tier 0 - reference only if you need pre-React basics
 - [ ] Course: [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!) (If you want more confidence programming)
 - [ ]  Articles: How to not f-up your local files with Git [part1](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-1-e0756c88fd3c), [part2](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-2-fc4e243be02a) and [part 3](https://medium.com/chingu/how-to-not-f-up-your-local-files-with-git-part-3-bf03b27b6e64) (You want to be using git, read these to get up to speed.)
-- [ ]  Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/) (Intro, to get you started with HTML and CSS)
-- [ ]  Course: [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/) (Additional HTML and CSS instruction)  
+- [x]  Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/) (Intro, to get you started with HTML and CSS)
+- [x]  Course: [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/) (Additional HTML and CSS instruction)  
 - [ ]  Course: [Getting Sassy with CSS](http://www.sassshop.com/#/) (Dip into Sass, try to hit this before you finish the guide)
-- [ ]  Book Series: [YDKJS](https://github.com/getify/You-Dont-Know-JS/) (You need to KNOW JavaScript, not just sorta-know JavaScript, if you haven't studied these books, do yourself a favor and study them alongside whatever else you might be doing)
+- [x]  Book Series: [YDKJS](https://github.com/getify/You-Dont-Know-JS/) (You need to KNOW JavaScript, not just sorta-know JavaScript, if you haven't studied these books, do yourself a favor and study them alongside whatever else you might be doing)
 - [ ]  Official Docs: [ESLint](https://eslint.org/) - thoroughly review the User Guide
 - [ ]  Official Docs: [Axios npm package](https://www.npmjs.com/package/axios) - thoroughly review, you'll want this for making API calls
 
