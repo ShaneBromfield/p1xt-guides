@@ -71,7 +71,7 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 **Goal:** Practice Frontend Development in greater depth and continue studying JavaScript, ensuring you understand the algorithms and data structures you're likely to encounter in interviews (and on the job).
 
 - [ ]  Project: Read [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) - and make two contributions to open source projects (of your choice) by the end of this Tier.
-- [ ]  Book: [Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf)
+- [x]  Book: [Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf)
 - [ ]  Project: Finish all classic puzzles on [CodinGame](https://www.codingame.com/training) from easy through hard by the end of the Tier. 
 - [ ]  Project: Clone Medium. Include: create account, create post, publish post, edit post, add topic to post, follow user, follow topic, cheer for post, and home page with feed of recent posts, followed users, and followed topics.
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement the frontend of a website with it as your inspiration (do not use its assets)
