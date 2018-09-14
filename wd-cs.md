@@ -32,14 +32,14 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 * [x] Course: [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)
 * [x] Course: [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
 * [x] Course: [Software Development Capstone Project](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx)
-* [ ] Book: [DOM Enlightenment](http://domenlightenment.com/)
+* [x] Book: [DOM Enlightenment](http://domenlightenment.com/)
 * [ ] Project: Simon Game from the frontend section of FCC
 * [ ] Project: Read up on [Gulp](http://gulpjs.com/) - try to incorporate it into your workflow if you aren't using it regularly already
 * [ ] Project: Read up on [Mocha](https://mochajs.org/) - try to use it to test your JavaScript, every chance you get
 * [ ] Course - [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) on edX or [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University (or both, your choice)
-* [ ] The FCC Backend Certification - all projects, ignore the tutorials and just read the official docs if you want.
+* [x] The FCC Backend Certification - all projects, ignore the tutorials and just read the official docs if you want.
 * [x] Course: [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
-* [ ] Book: [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [x] Book: [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [ ] Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-creative/) landing page
 * [x] Course: [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
 * [ ] Project: Build the Pomodoro project from the FCC frontend curriculum
